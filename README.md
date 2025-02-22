@@ -1,6 +1,6 @@
-# 🎈 Xquiz-it - Digital Quiz Platform
+# 🎈 quizz-it - Digital Quiz Platform
 
-**Xquiz-it** is an interactive digital quiz platform that allows users to take quizzes with multiple question types, get instant feedback on answers, and track their progress throughout. Xquiz-it aims to provide an engaging and educational experience for quiz takers.
+**quiz-it** is an interactive digital quiz platform that allows users to take quizzes with multiple question types, get instant feedback on answers, and track their progress throughout. Xquiz-it aims to provide an engaging and educational experience for quiz takers.
 
 ## ⛓️‍💥Features
 
@@ -95,4 +95,4 @@ Go to `http://localhost:5173` in your browser to view the application.
 
 ## 👀Feedback
 
-Any feedback or suggestions are welcome! Feel free to open an issue or reach out to me on [Twitter](https://twitter.com/Ayush29081).
+Any feedback or suggestions are welcome! Feel free to open an issue or reach out to me on [gmail](aaravarudi@gmail.com).
